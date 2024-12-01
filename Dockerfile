@@ -14,9 +14,6 @@ RUN npm install --only=production
 # Copiar o restante do código da aplicação
 COPY . .
 
-# Copiar o arquivo de variáveis de ambiente
-COPY .env .env
-
 # Expor a porta em que a aplicação será executada
 EXPOSE 3000
 
