@@ -19,7 +19,7 @@ Docker (opcional para containerização)
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/to-do-list.git
+   git clone https://github.com/diogodoi/to-do-list.git
    cd to-do-list
    ```
 2. Instale as dependências:
