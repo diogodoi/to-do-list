@@ -5,21 +5,29 @@ Esta é uma aplicação simples para gerenciamento de tarefas construída com No
 ## Tecnologias Utilizadas
 
 Node.js
+
 Express.js
+
 MongoDB (para armazenamento de dados)
+
 Redis (para cache e sessões)
+
 JWT (para autenticação segura)
+
 Pré-requisitos
 Node.js (versão 16 ou superior)
+
 MongoDB (local ou em nuvem)
+
 Redis (local ou em nuvem)
+
 Docker (opcional para containerização)
 
 ## Como Instalar e Executar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/to-do-list.git
+   git clone https://github.com/diogodoi/to-do-list.git
    cd to-do-list
    ```
 2. Instale as dependências:
