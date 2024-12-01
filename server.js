@@ -4,7 +4,7 @@ import app from './src/app.js';
 import mongoose from 'mongoose';
 
 // Conexão com o banco de dados
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT_BD || 3000;
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/todo-app';
 
 mongoose
