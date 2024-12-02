@@ -37,7 +37,7 @@ npm install
 ```
 3. Configure as variaveis de ambiente no arquivo .env:
 ```bash 
-PORT=3000
+PORT_BD=3000
 MONGO_URI=mongodb://localhost:27017/todo-app
 JWT_SECRET=sua_chave_secreta
 REDIS_HOST=localhost
